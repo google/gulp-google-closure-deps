@@ -1,6 +1,6 @@
 {
   "name": "gulp-google-closure-deps",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Gulp plugin for Google Closure deps package. Exposes a method to generate dependency file for Closure code.",
   "main": "index.js",
   "scripts": {
