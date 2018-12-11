@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/luzhang/gulp-google-closure-deps.git"
+    "url": "git+https://github.com/google/gulp-google-closure-deps.git"
   },
   "keywords": [
     "javascript",
@@ -22,9 +22,9 @@
   "author": "Lu Zhang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/luzhang/gulp-google-closure-deps/issues"
+    "url": "https://github.com/google/gulp-google-closure-deps/issues"
   },
-  "homepage": "https://github.com/luzhang/gulp-google-closure-deps#readme",
+  "homepage": "https://github.com/google/gulp-google-closure-deps#readme",
   "dependencies": {
     "google-closure-deps": "^20180910.1.0",
     "plugin-error": "^1.0.1",
