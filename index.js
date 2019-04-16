@@ -60,6 +60,9 @@ function flushFunc(cb) {
 }
 
 function main(arg = {}) {
+  // Fixes files being registered twice 
+  files = [];
+
   argsClosurePath = arg.closurePath;
   return through.obj(transformFunc, flushFunc);
 }
